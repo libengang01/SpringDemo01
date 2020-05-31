@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
-        System.out.println("hot_fix");
+        System.out.println("hot_fix");//AAAA
         SpringApplication.run(DemoApplication.class, args);
     }
 
